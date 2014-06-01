@@ -11,6 +11,11 @@ p {
 hr {
 	color: #00B27F; 
 }
+
+a {
+	color: #00B27F;
+}
+
 .circular {
 	width: 300px;
 	height: 300px;

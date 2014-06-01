@@ -14,6 +14,7 @@ hr {
 
 a {
 	color: #00B27F;
+	text-decoration:none;
 }
  /* unvisited link */
 a:link {
@@ -45,6 +46,6 @@ a:active {
 }
 
 .menu {
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: bold;
 }

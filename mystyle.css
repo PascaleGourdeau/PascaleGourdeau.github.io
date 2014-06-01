@@ -27,12 +27,12 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-	color:#B22700;
+	color:#FF3800;
 }  
 
 /* selected link */ 
 a:active {
-	color:#B22700;
+	color:#FF3800;
 }  
 
 .circular {

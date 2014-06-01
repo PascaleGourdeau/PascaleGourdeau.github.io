@@ -24,3 +24,8 @@ a {
 	margin-right:auto;
 	background: url(http://www.pascalegourdeau.com/me.png) no-repeat;
 }
+
+.menu {
+	font-size: 16;
+	font-style: bold;
+}

@@ -15,6 +15,25 @@ hr {
 a {
 	color: #00B27F;
 }
+ /* unvisited link */
+a:link {
+	color:#00B27F;
+}     
+
+/* visited link */
+a:visited {
+	color:#00B27F;
+} 
+
+/* mouse over link */
+a:hover {
+	color:#B22700;
+}  
+
+/* selected link */ 
+a:active {
+	color:#B22700;
+}  
 
 .circular {
 	width: 300px;

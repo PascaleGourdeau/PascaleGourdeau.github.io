@@ -9,7 +9,7 @@ p {
 }
 
 hr {
-	color: #192FBD; 
+	color: #00FFB6; 
 }
 
 a {
@@ -24,7 +24,7 @@ a:link {
 
 /* visited link */
 a:visited {
-	color:#942100;
+	color:#009C6F;
 } 
 
 /* mouse over link */

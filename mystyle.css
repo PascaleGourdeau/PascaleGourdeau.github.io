@@ -9,7 +9,7 @@ p {
 }
 
 hr {
-	color: #00FFB6; 
+	color: #009C6F; 
 }
 
 a {
@@ -50,6 +50,7 @@ a:active {
 .menu {
 	font-size: 20px;
 	font-weight: bold;
+	text-align: right;
 }
 
 .homepic {

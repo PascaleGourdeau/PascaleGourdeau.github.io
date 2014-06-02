@@ -20,17 +20,17 @@ a {
 }
  /* unvisited link */
 a:link {
-	color:#008760;
+	color:#009C6F;
 }     
 
 /* visited link */
 a:visited {
-	color:#008760;
+	color:#009C6F;
 } 
 
 /* mouse over link */
 a:hover {
-	color:#871E00;
+	color:#D42F00;
 }  
 
 /* selected link */ 

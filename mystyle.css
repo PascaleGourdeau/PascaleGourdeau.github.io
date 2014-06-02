@@ -9,7 +9,7 @@ p {
 }
 
 hr {
-	color: #009C6F; 
+	color: #192FBD; 
 }
 
 a {
@@ -24,7 +24,7 @@ a:link {
 
 /* visited link */
 a:visited {
-	color:#009C6F;
+	color:#942100;
 } 
 
 /* mouse over link */
@@ -37,7 +37,7 @@ a:active {
 	color:#D42F00;
 }  
 
-.circular {
+.homepic {
 	width: 310px;
 	height: 310px;
 	border-radius: 155px;
@@ -46,7 +46,53 @@ a:active {
 	background: url(http://www.pascalegourdeau.com/me.png) no-repeat;
 }
 
+
 .menu {
 	font-size: 20px;
 	font-weight: bold;
+}
+
+.homepic {
+	width: 310px;
+	height: 310px;
+	border-radius: 155px;
+	margin-left:auto;
+	margin-right:auto;
+	background: url(http://www.pascalegourdeau.com/me.png) no-repeat;
+}
+
+.wsil-logo {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	margin-left:auto;
+	margin-right:auto;
+	background: url(http://www.pascalegourdeau.com/wsil-logo.png) no-repeat;
+}
+
+.wsil-big {
+	width: 310px;
+	height: 310px;
+	border-radius: 155px;
+	margin-left:auto;
+	margin-right:auto;
+	background: url(http://www.pascalegourdeau.com/wsil-big.png) no-repeat;
+}
+
+.pressplay-logo {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	margin-left:auto;
+	margin-right:auto;
+	background: url(http://www.pascalegourdeau.com/pressplay-logo.png) no-repeat;
+}
+
+.pressplay-big {
+	width: 310px;
+	height: 310px;
+	border-radius: 155px;
+	margin-left:auto;
+	margin-right:auto;
+	background: url(http://www.pascalegourdeau.com/pressplay-big.png) no-repeat;
 }

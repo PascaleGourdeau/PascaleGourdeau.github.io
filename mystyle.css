@@ -1,12 +1,13 @@
 body {
 	background-color: #FCFCFC;
 	font-family: "Calisto MT", Helvetica, sans-serif;
-	text-align: left;
+	text-align: center;
 	color: #282828;
 }
 
 p {
 	/*color: #009C6F;*/
+	text-align: left;
 	font-size: 20px;
 	margin-left:5%;
 	margin-right:5%;
@@ -62,6 +63,7 @@ a:active {
 .menu {
 	font-size: 20px;
 	font-weight: bold;
+	text-align: center;
 }
 
 .wsil-logo {

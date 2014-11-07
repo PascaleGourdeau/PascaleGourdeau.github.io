@@ -68,7 +68,7 @@ a:active {
 }
 
 .article {
-	margin-left: 130px;
+	margin-left: 180px;
 }
 
 .wsil-logo {
@@ -76,7 +76,7 @@ a:active {
 	height: 170px;
 	border-radius: 85px;
 	float: left;
-	margin-left: 90px;
+	margin-left: 140px;
 	display: block;
 	background: url(http://www.pascalegourdeau.com/projects/wsil-logo.png) no-repeat;
 }
@@ -95,7 +95,7 @@ a:active {
 	height: 170px;
 	border-radius: 85px;
 	float: left;
-	margin-left: 90px;
+	margin-left: 140px;
 	display: block;
 	background: url(http://www.pascalegourdeau.com/projects/pressplay-logo.png) no-repeat;
 }

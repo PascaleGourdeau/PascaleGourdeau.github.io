@@ -1,6 +1,6 @@
 body {
 	background-color: #FCFCFC;
-	font-family: "Calisto MT", Helvetica, sans-serif;
+	font-family: "Raleway", Helvetica, sans-serif;
 	text-align: center;
 	color: #282828;
 }
@@ -38,7 +38,7 @@ a:visited {
 } 
 
 /* mouse over link */
-a:hover {
+a:hover, .social {
 	color:#D42F00;
 }  
 
@@ -64,7 +64,7 @@ a:active {
 	font-size: 24px;
 	font-weight: bold;
 	text-align: center;
-	font-family: "Trebuchet MS";
+	font-family: "Raleway";
 }
 
 .article {
@@ -122,4 +122,28 @@ a:active {
 .author {
 	color: #A8A8A8;
 	text-align: center;
+}
+
+i {
+	border-radius: 50%;
+	padding-top: 10px;
+}
+.social {
+    height:40px;
+    padding-top:40px;
+    padding-bottom:40px;  
+    text-align:center;
+    font-size:30px;
+}
+
+.social a { 
+    border: 2px solid #777;
+    border-radius: 50%;
+    display: inline-block;
+    letter-spacing: normal;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin-left:10px;
+    margin-right:10px;
 }

@@ -137,8 +137,6 @@ i {
 }
 
 .social a { 
-    border: 2px solid #777;
-    border-radius: 50%;
     display: inline-block;
     letter-spacing: normal;
     text-align: center;

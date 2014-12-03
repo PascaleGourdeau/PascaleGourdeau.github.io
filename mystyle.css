@@ -14,11 +14,12 @@ p {
 	line-height: 150%;
 }
 
+
 p.small {
 	font-size: 14px;
 }
 
-hr {
+hr, h3 {
 	color: #009C6F; 
 }
 
@@ -113,21 +114,23 @@ a:active {
 	background: url(projects/women-enrolment-logo.png) no-repeat;
 }
 
-.citation {
+.citation{
 	font-size: 24px;
 	font-style: italic;
 	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
 }
 
-.author {
+.author, .subtext {
 	color: #A8A8A8;
 	text-align: center;
 }
 
 i {
-	border-radius: 50%;
 	padding-top: 10px;
 }
+
 .social {
     height:40px;
     padding-top:40px;
@@ -138,7 +141,6 @@ i {
 
 .social a { 
     display: inline-block;
-    letter-spacing: normal;
     text-align: center;
     width: 40px;
     height: 40px;

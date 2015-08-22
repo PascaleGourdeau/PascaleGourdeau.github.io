@@ -5,7 +5,7 @@ body {
 	color: #282828;
 }
 
-p {
+p, ul {
 	/*color: #009C6F;*/
 	text-align: left;
 	font-size: 20px;
@@ -15,7 +15,7 @@ p {
 }
 
 
-p.small {
+p.small , ul{
 	font-size: 14px;
 }
 
@@ -58,7 +58,7 @@ a:active {
 	border-radius: 155px;
 	margin-left:auto;
 	margin-right:auto;
-	background: url(http://www.pascalegourdeau.com/me.png) no-repeat;
+	background: url(./me.png) no-repeat;
 }
 
 .menu {

@@ -58,7 +58,9 @@ a:active {
 	border-radius: 155px;
 	margin-left:auto;
 	margin-right:auto;
-	background: url(./me.png) no-repeat;
+	background: url(./me.jpg) no-repeat;
+	background-position: center;
+	background-size: 110%;
 }
 
 .menu {
@@ -73,45 +75,6 @@ a:active {
 	min-width: 600px;
 	max-width: 800px;
 
-}
-
-.wsil-logo, .pressplay-logo, .women-enrolment-logo {
-	width: 170px;
-	height: 170px;
-	border-radius: 85px;
-	float: left;
-	margin-left: 140px;
-	display: block;
-	}
-
-.wsil-logo {
-	background: url(http://www.pascalegourdeau.com/projects/wsil-logo.png) no-repeat;
-}
-
-.wsil-big {
-	width: 330px;
-	height: 330px;
-	border-radius: 165px;
-	margin-left:auto;
-	margin-right:auto;
-	background: url(http://www.pascalegourdeau.com/projects/wsil-big.png) no-repeat;
-}
-
-.pressplay-logo {
-	background: url(http://www.pascalegourdeau.com/projects/pressplay-logo.png) no-repeat;
-}
-
-.pressplay-big {
-	width: 330px;
-	height: 330px;
-	border-radius: 165px;
-	margin-left:auto;
-	margin-right:auto;
-	background: url(http://www.pascalegourdeau.com/projects/pressplay-big.png) no-repeat;
-}
-
-.women-enrolment-logo {
-	background: url(projects/women-enrolment-logo.png) no-repeat;
 }
 
 .citation{
@@ -133,7 +96,7 @@ i {
 
 .social {
     height:40px;
-    padding-top:20px;
+    padding-top:10px;
     padding-bottom:40px;  
     text-align:center;
     font-size:30px;

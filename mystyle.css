@@ -2,7 +2,7 @@ body {
 	background-color: #FCFCFC;
 	font-family: "Raleway", Helvetica, sans-serif;
 	text-align: center;
-	color: #282828;
+	color: #434343;
 }
 
 p, ul {
@@ -18,34 +18,36 @@ p, ul {
 p.small , ul{
 	font-size: 14px;
 }
-
 hr, h3 {
-	color: #009C6F; 
+	color: #235476; 
 }
 
 a {
-	color: #009C6F;
+	color: #438496;
 	text-decoration:none;
 	transition: .4s;
 }
  /* unvisited link */
 a:link {
-	color:#009C6F;
+	color:#438496;
 }     
 
 /* visited link */
 a:visited {
-	color:#009C6F;
+	color:#438496;
 } 
+hr, h3 {
+	color: #235476; 
+}
 
 /* mouse over link */
 a:hover, .social {
-	color:#D42F00;
+	color:#B37B4E;
 }  
 
 /* selected link */ 
 a:active {
-	color:#D42F00;
+	color:#B37B4E;
 }  
 
 .color-banner {
